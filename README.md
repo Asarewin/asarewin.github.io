@@ -1,5 +1,4 @@
-# asarewin.github.io
+# My Website
 
-## This is a test
+I decided i would experiment with web programming by starting my own project, this will be composed of html, css and javascript
 
-https://asarewin.github.io/
